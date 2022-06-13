@@ -75,7 +75,7 @@ Balloon Pop Division game|3|4
 Balloon Pop Addition game|3|4
 Balloon Pop Subtraction game|3|4
 Contact Form to contact developer|3|5
-Link to developer [GitHub](https://github.com/richardhenyash) page|4|5
+Link to developer [GitHub](https://github.com/Gayathri11900) page|4|5
 Subscribe Option|1|2
 
 <img src="/assets/wireframes/initial-strategy.png" style="margin: 15px; width: 400px;">
@@ -86,7 +86,7 @@ Item|Development Phase
 ----|-----------------
 Balloon Pop Multiplication game|1
 Contact Form to contact developer|1
-Link to developer [GitHub](https://github.com/richardhenyash) page|1
+Link to developer [GitHub](https://github.com/Gayathri11900) page|1
 Balloon Pop Division game|1
 Balloon Pop Addition game|1
 Balloon Pop Subtraction game|1
@@ -135,7 +135,7 @@ Feature|Importance|Difficulty|Development Phase
 -------|----------|----------|-----------------
 Balloon Pop Multiplication game| 5 | 3 | 1 |
 Contact Form to contact developer | 4 | 2 | 1
-Link to developer [GitHub](https://github.com/richardhenyash) page | 3 | 1 | 1
+Link to developer [GitHub](https://github.com/Gayathri11900) page | 3 | 1 | 1
 Balloon Pop Division game| 3 | 3 | 1
 Balloon Pop Addition game| 3 | 3 | 1
 Balloon Pop Subtraction game| 3 | 3 | 1
